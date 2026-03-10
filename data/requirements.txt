@@ -1,0 +1,18 @@
+# Основные зависимости
+openai>=1.0.0
+ollama>=0.1.0
+
+# Работа с документами
+python-docx>=0.8.11
+reportlab>=4.0.0
+
+# RAG и эмбеддинги
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# Веб-интерфейс
+gradio>=4.0.0
+
+# Утилиты
+jinja2>=3.0.0
+pydantic>=2.0.0
